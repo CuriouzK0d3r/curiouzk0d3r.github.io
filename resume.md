@@ -4,7 +4,7 @@ title: Résumé
 subtitle: My Resume
 ---
 
-/*<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span> */
+<!--- <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span> --->
 <br>
 
 ## 🏆 Professional Summary
@@ -117,6 +117,6 @@ I am passionate about learning new technologies, improving my skills, and delive
 - [GitHub: Artemis Web](https://github.com/FORTH-ICS-INSPIRE/artemis-web/)  
 - [ACM Paper: The Rise and Fall of Fake News Sites](https://dl.acm.org/doi/10.1145/3447535.3462510)  
 - [Incognitus: Privacy-Preserving User Interests](https://www.springerprofessional.de/en/incognitus-privacy-preserving-user-interests-in-online-social-ne/16428486)  
-- [IEEE: K-anonymity in Facebook](https://ieeexplore.ieee.org/document/8909652)  
-- [QR Code Payment System](https://qr.verandaallday.gr)  
+- [Check-It: A plugin for Detecting and Reducing the Spread of Fake News and Misinformation on the Web](https://ieeexplore.ieee.org/document/8909652)  
+- [QR Catalogue](https://qr.verandaallday.gr)  
 
