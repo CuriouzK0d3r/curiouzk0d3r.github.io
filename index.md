@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="[{{ '' | prepend: site.baseurl }}](https://pic.onlinewebfonts.com/thumbnails/icons_486505.svg)" id="about-img">
+<img src="https://pic.onlinewebfonts.com/thumbnails/icons_486505.svg" id="about-img">
 
 <div style="text-align: left" id="describe-text">
 I'm Alexandros Kornilakis, a software engineer from Greece with a passion for web development, cybersecurity, and AI. With over five years of work experience, I specialize in building web applications, browser extensions, mobile apps, and security tools.
