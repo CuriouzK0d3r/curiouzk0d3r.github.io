@@ -1,60 +1,122 @@
 ---
 layout: page
 title: Résumé
-subtitle: An awesome person
+subtitle: My Resume
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+/*<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span> */
 <br>
 
-### SKILLS
-``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```  
+## 🏆 Professional Summary
 
-### PROJECTS
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+I am a software engineer from Greece, specializing in web development and cybersecurity, with over 4 years of experience. I have a strong understanding of web technologies, browser internals, and virtual machines (Java, PHP, Node.js). My expertise includes web applications, browser extensions, mobile applications, and security tools.  
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+Technologies I work with:  
+- **Frontend**: React.js, Svelte, Next.js  
+- **Backend**: Python, Node.js, MongoDB, PostgreSQL, Redis, RabbitMQ, Hasura  
+- **DevOps**: Docker, Kubernetes, CI/CD (GitHub & GitLab)  
+- **Security & Research**: Web measurements, penetration testing  
+- **Mobile**: Flutter  
 
-**Title** - Description - Place <span style="float: right; ">Time span</span>  
-Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
+I am passionate about learning new technologies, improving my skills, and delivering quality software.
 
-### EDUCATION
+---
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
- 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit.  
+## 💼 Experience
 
-Institute <span style="float: right; ">Duration</span>  
-**Course**  
-Description in gravida nisl. Nulla quis pharetra sem. Nam nec arcu non erat aliquam facilisis eget quis massa. Duis et ultricies diam, non venenatis nisl. Maecenas sed mauris consectetur, faucibus mi ac, commodo velit. 
+### **Software Engineer**  
+📍 ICS-FORTH, TNL Lab | 🗓️ 09/2020 – Present  
 
-### EXPERIENCE
+- **Technologies:** React.js, Next.js, Astro, TailwindCSS, WebAssembly  
+- **Backend:** Python, Node.js, MongoDB, Redis, RabbitMQ, Hasura  
+- Integrated **LLM models and RAG techniques**  
+- Flutter mobile app development  
+- Contributed to **research projects on Internet measurements**  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+---
 
- 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+### **Research Fellow**  
+📍 ICS-FORTH, Distributed Computing Systems Lab | 🗓️ 08/2017 – 08/2020  
 
-Title - **Comapany** <span style="float: right; ">Duration</span>  
-_Description Phasellus a tellus volutpat, ornare sapien et, lacinia erat. Suspendisse congue, enim vitae mattis pulvinar, eros lacus porttitor neque, eu sodales nibh metus nec arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;_  
-Technologies used  
+---
 
+### **Data Scientist (Intern)**  
+📍 Telefonica I+D, Barcelona, Spain | 🗓️ 02/2020 – 03/2020  
 
-### RECOGNITION & INTERESTS
+---
 
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
-- Etiam luctus ante quis est dictum faucibus.
+### **Machine Learning Engineer (Intern)**  
+📍 F-Secure Corporation, Helsinki, Finland | 🗓️ 11/2019 – 02/2020  
+
+---
+
+### **IT System Administrator**  
+📍 Hellenic Army (Mandatory Military Service) | 🗓️ 03/2017 – 08/2017  
+
+---
+
+### **Full Stack Developer**  
+📍 CodePLUS, Heraklion, Greece | 🗓️ 06/2014 – 05/2015  
+
+---
+
+### **Freelance Projects**  
+
+- **Java Android app** for professional photographers  
+- **QR-code-based e-payment system** with Ionic Framework  
+- **WordPress websites & Opencart e-shops**  
+- **Custom Opencart extensions and pages**  
+
+---
+
+## 🎓 Education
+
+### **M.Sc. in Distributed Computing Systems**  
+📍 University of Crete | 🗓️ 09/2017 – 09/2019  
+- **GPA:** 8.94/10  
+- **Thesis:** Check-It: Real-Time Detection of Fake News (WI 2019)  
+- Awarded **academic scholarship**  
+- **Focus Areas:** Big Data Analytics, Deep Learning, Computer Security  
+
+---
+
+### **B.Sc. in Computer Science**  
+📍 University of Crete | 🗓️ 2010 – 2016  
+- **GPA:** 7.4/10  
+- **Thesis:** K-anonymity in Facebook (IOSEC 2018)  
+
+---
+
+## 💻 Technical Skills
+
+### **Programming Languages**  
+- **Proficient:** JavaScript, TypeScript, PHP, Java, Python, C, Bash  
+- **Intermediate:** Rust, C++, Ruby, Scala, Julia, OCaml  
+
+### **Web Development**  
+- **Frontend:** React.js, Svelte, Next.js, WebAssembly, TailwindCSS, Bootstrap  
+- **Backend:** Node.js, Flask, PHP, GraphQL  
+- **CMS & Frameworks:** WordPress, Hugo, Gatsby, Smarty  
+
+### **Databases & DevOps**  
+- **Databases:** PostgreSQL, MongoDB, Oracle RDBMS  
+- **Tools:** Docker, Kubernetes, Vagrant, Git, CI/CD  
+
+---
+
+## 🌍 Languages
+
+- **English** – C1 (University of Michigan)  
+- **German** – B1 (Goethe Zertifikat)  
+- **Greek** – Native  
+
+---
+
+## 🔗 Links & Publications
+
+- [GitHub: Artemis Web](https://github.com/FORTH-ICS-INSPIRE/artemis-web/)  
+- [ACM Paper: The Rise and Fall of Fake News Sites](https://dl.acm.org/doi/10.1145/3447535.3462510)  
+- [Incognitus: Privacy-Preserving User Interests](https://www.springerprofessional.de/en/incognitus-privacy-preserving-user-interests-in-online-social-ne/16428486)  
+- [IEEE: K-anonymity in Facebook](https://ieeexplore.ieee.org/document/8909652)  
+- [QR Code Payment System](https://qr.verandaallday.gr)  
+

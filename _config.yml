@@ -1,16 +1,15 @@
 # Site settings
-title: Pudhina
+title: Alexandros Kornilakis
 description: >
-  A simple, minimal Jekyll theme for a personal web page and blog, focusing on white space and readability
+	My personal page
 
-baseurl: "/Pudhina" # the subpath of your site, e.g. /blog/
-url: "https://knhash.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://curiouzk0d3r.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Pudhina
-  github: github
-  linkedin: linkedin
-  email: example@email.com
+  fullname: Alexandros Kornilakis
+  github: CuriouzK0d3r
+  linkedin: /in/kornilak
 
 
 # Syntax highlighting
