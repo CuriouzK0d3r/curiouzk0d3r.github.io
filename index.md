@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-subtitle: Hello!
+subtitle: Greetings!
 sitemap:
   priority: 0.9
 ---
