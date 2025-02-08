@@ -31,7 +31,6 @@ I am passionate about learning new technologies, improving my skills, and delive
 
 - **Technologies:** React.js, Next.js, Astro, TailwindCSS, WebAssembly  
 - **Backend:** Python, Node.js, MongoDB, Redis, RabbitMQ, Hasura  
-- Integrated **LLM models and RAG techniques**  
 - Flutter mobile app development  
 - Contributed to **research projects on Internet measurements**  
 
@@ -75,16 +74,13 @@ I am passionate about learning new technologies, improving my skills, and delive
 
 ### **M.Sc. in Distributed Computing Systems**  
 📍 University of Crete | 🗓️ 09/2017 – 09/2019  
-- **GPA:** 8.94/10  
 - **Thesis:** Check-It: Real-Time Detection of Fake News (WI 2019)  
-- Awarded **academic scholarship**  
 - **Focus Areas:** Big Data Analytics, Deep Learning, Computer Security  
 
 ---
 
 ### **B.Sc. in Computer Science**  
 📍 University of Crete | 🗓️ 2010 – 2016  
-- **GPA:** 7.4/10  
 - **Thesis:** K-anonymity in Facebook (IOSEC 2018)  
 
 ---
@@ -116,7 +112,8 @@ I am passionate about learning new technologies, improving my skills, and delive
 
 ## 🔗 Links & Publications
 
-- [GitHub: Artemis Web](https://github.com/FORTH-ICS-INSPIRE/artemis-web/)  
+- [GitHub: Artemis Web](https://github.com/FORTH-ICS-INSPIRE/artemis-web/)
+- [Towards the development of a network provisioning platform for data exchange in the health data space](https://ieeexplore.ieee.org/abstract/document/10849743)
 - [ACM Paper: The Rise and Fall of Fake News Sites](https://dl.acm.org/doi/10.1145/3447535.3462510)  
 - [Incognitus: Privacy-Preserving User Interests](https://www.springerprofessional.de/en/incognitus-privacy-preserving-user-interests-in-online-social-ne/16428486)  
 - [Check-It: A plugin for Detecting and Reducing the Spread of Fake News and Misinformation on the Web](https://ieeexplore.ieee.org/document/8909652)  
