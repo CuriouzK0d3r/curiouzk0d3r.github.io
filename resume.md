@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Résumé
-subtitle: My Resume
+subtitle:
 ---
 
 <!--- <span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span> --->
@@ -113,6 +113,7 @@ I am passionate about learning new technologies, improving my skills, and delive
 ## 🔗 Links & Publications
 
 - [GitHub: Artemis Web](https://github.com/FORTH-ICS-INSPIRE/artemis-web/)
+- [How Russia's Invasion of Ukraine Impacted the Internet Peering of the Conflicted Countries](https://ieeexplore.ieee.org/abstract/document/10559142)
 - [Towards the development of a network provisioning platform for data exchange in the health data space](https://ieeexplore.ieee.org/abstract/document/10849743)
 - [ACM Paper: The Rise and Fall of Fake News Sites](https://dl.acm.org/doi/10.1145/3447535.3462510)  
 - [Incognitus: Privacy-Preserving User Interests](https://www.springerprofessional.de/en/incognitus-privacy-preserving-user-interests-in-online-social-ne/16428486)  
