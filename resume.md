@@ -9,14 +9,16 @@ subtitle: My Resume
 
 ## 🏆 Professional Summary
 
-I am a software engineer from Greece, specializing in web development and cybersecurity, with over 4 years of experience. I have a strong understanding of web technologies, browser internals, and virtual machines (Java, PHP, Node.js). My expertise includes web applications, browser extensions, mobile applications, and security tools.  
+I am a software engineer from Greece, specializing in web development and cybersecurity, with over 5 years of experience. I have a strong understanding of web technologies, browser internals, and virtual machines (Java, PHP, Node.js). My expertise includes web applications, browser extensions, mobile applications, and security tools.  
 
+<!---
 Technologies I work with:  
-- **Frontend**: React.js, Svelte, Next.js  
+- **Frontend**: React.js, Astro, Next.js, Tailwind.CSS 
 - **Backend**: Python, Node.js, MongoDB, PostgreSQL, Redis, RabbitMQ, Hasura  
 - **DevOps**: Docker, Kubernetes, CI/CD (GitHub & GitLab)  
 - **Security & Research**: Web measurements, penetration testing  
-- **Mobile**: Flutter  
+- **Mobile**: Flutter
+--->
 
 I am passionate about learning new technologies, improving my skills, and delivering quality software.
 
@@ -90,8 +92,8 @@ I am passionate about learning new technologies, improving my skills, and delive
 ## 💻 Technical Skills
 
 ### **Programming Languages**  
-- **Proficient:** JavaScript, TypeScript, PHP, Java, Python, C, Bash  
-- **Intermediate:** Rust, C++, Ruby, Scala, Julia, OCaml  
+- **Experienced:** JavaScript, TypeScript, PHP, Java, Python, C, Bash  
+- **Intermediate:** Rust, Go, C++, Ruby, Scala, Julia  
 
 ### **Web Development**  
 - **Frontend:** React.js, Svelte, Next.js, WebAssembly, TailwindCSS, Bootstrap  
