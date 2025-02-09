@@ -3,7 +3,7 @@ layout: page
 title:  "Learn You a Functional Programming for Great Good!"
 subtitle: ""
 date:   2021-06-24 21:21:21 +0000
-categories: ["programming languages", "functional programming" ]
+categories: programming languages, functional programming
 ---
 
 Level of knowledge required: This article requires some programming background to be fully understood.
